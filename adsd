@@ -1,0 +1,29 @@
+[33mcommit 0fcdc3626be981fc6852396ae819019cc77895b6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m)[m
+Author: bing <471083525@qq.com>
+Date:   Wed Oct 17 12:36:06 2018 +0000
+
+    FInish layout and routes
+
+[33mcommit f16b0a6a806cabafbf6f11c49383d265e8be44dd[m[33m ([m[1;32mstatic-pages[m[33m)[m
+Author: bing <471083525@qq.com>
+Date:   Tue Oct 16 20:22:40 2018 +0000
+
+    Finish static pages
+
+[33mcommit 82dcbf1ded0258374c2fda65e24aa2bd32d14260[m
+Author: bing <471083525@qq.com>
+Date:   Tue Oct 16 19:25:13 2018 +0000
+
+    Add .editorconfig
+
+[33mcommit 4cd6b57fb7bcc74a9e2ad9cca875d0cc618050f2[m
+Author: bing <471083525@qq.com>
+Date:   Tue Oct 16 19:13:10 2018 +0000
+
+    Profile for Hero
+
+[33mcommit 9240acce33eb4c4189730fe4d4782b808fbb340f[m
+Author: bing <471083525@qq.com>
+Date:   Tue Oct 16 19:06:43 2018 +0000
+
+    Initial commit
